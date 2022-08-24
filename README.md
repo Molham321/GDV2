@@ -7,7 +7,7 @@ a simple Sierpinski fractals implemented with YoshiX, you can finde more infos a
 
 The actual Sierpinski triangle in the strict mathematical sense is that set of points that remains as a "boundary object" after an infinite number of iteration steps. Clearly speaking, the Sierpinski triangle consists of an infinite number of vertices.
 
-![](docs/Photos/pingPong.gif) <br>
+![](docs/photos/Sierpinski.png) <br>
 
 ## import Project
 
