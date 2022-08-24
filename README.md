@@ -5,11 +5,7 @@ a simple Sierpinski fractals implemented with YoshiX, you can finde more infos a
 
 ## About the Project
 
-the project is a simple classic Ping-Pong game. <br>
-intended for two players you can played as singel player so you have to play against yourself. <br>
-the game is very similar for online bong game. <br>
-you control a small Bat Up and down to try to push the ball away. <br>
-the game is very classic, there is no score or anything like that, once the ball is missed you lose and the game <br>
+The actual Sierpinski triangle in the strict mathematical sense is that set of points that remains as a "boundary object" after an infinite number of iteration steps. Clearly speaking, the Sierpinski triangle consists of an infinite number of vertices.
 
 ![](docs/Photos/pingPong.gif) <br>
 
