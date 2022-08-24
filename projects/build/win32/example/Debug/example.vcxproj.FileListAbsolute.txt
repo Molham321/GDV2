@@ -1,0 +1,14 @@
+C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\GDV2\extra\gdv_2_project_vs2022\gdv_vs2019\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\GDV2\extra\gdv_2_project_vs2022\gdv_vs2019\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\GDV2\extra\gdv_2_pong\gdv_vs2019\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\molha\OneDrive\Desktop\FHS\Semester_6\GDV2\extra\gdv_2_pong\gdv_vs2019\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\molha\OneDrive\Desktop\FHS\06_Semester\GDV2\extra\gdv_2_pong\gdv_vs2019\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\molha\OneDrive\Desktop\FHS\06_Semester\GDV2\extra\gdv_2_pong\gdv_vs2019\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\molha\OneDrive\Desktop\gdv2\Projekt_V01\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\molha\OneDrive\Desktop\gdv2\Projekt_V01\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\molha\OneDrive\Desktop\gdv2\Projekt_V02\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\molha\OneDrive\Desktop\gdv2\Projekt_V02\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\molha\OneDrive\Desktop\gdv2\Test_V03\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\molha\OneDrive\Desktop\gdv2\Test_V03\projects\build\win32\example\Debug\example_debug.pdb
+C:\Users\molha\OneDrive\Desktop\gdv2\Projekt\projects\build\win32\example\Debug\example_debug.exe
+C:\Users\molha\OneDrive\Desktop\gdv2\Projekt\projects\build\win32\example\Debug\example_debug.pdb
