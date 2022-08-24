@@ -1,7 +1,7 @@
 # GDV2 - Sierpinski fractals Project
 
 Ein Projekt von Molham Al-khodari für das Modul GDV2 <br>
-a simple Sierpinski fractals implemented with YoshiX, you can finde more infos about YoshiX [hier](docs/yoshix.chm) <br>
+a simple Sierpinski fractals implemented with YoshiX, you can finde more infos about YoshiX [hier](docs) <br>
 
 ## About the Project
 
