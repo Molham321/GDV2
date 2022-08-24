@@ -317,6 +317,7 @@ BHandle CApplication::CreateSierpinski(BHandle _Material)
 	BHandle m_pMesh = nullptr;
 
 	CreateMesh(Info, &m_pMesh);
+
 	return m_pMesh;
 }
 
